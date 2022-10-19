@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+API_URL = "https://api.themoviedb.org/3/movie/popular?api_key=1eece11314ca8cc7e7afa6f416a23242"
+API_IMG = "https://image.tmdb.org/t/p/w500/"
+API_SEARCH = "https://api.themoviedb.org/3/search/company?api_key=1eece11314ca8cc7e7afa6f416a23242&query"
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
